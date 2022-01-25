@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1001.4374999999997,
+    "videos": [
         "Piperrak - Gora Sartaguda-tFR6TQApMck.mp4",
         "Papalote - Silvio Rodríguez-a8o-FJ_N41Y.mp4",
         "The Shadows - Johnny Guitar-rxJ1jaWsVYU.mp4",
@@ -95,7 +96,5 @@
         "Conjunto Primavera - Sentí (Animated Video)-OOuawaUiX8c.mp4",
         "CARL HENRY ♦ Into My Life + Version {STUDIO 1 BLANK 7inch}-KCceNXQrdRM.mp4",
         "Jan Johansson - Polska från Medelpad (Official Audio)-KY6IBaDCd3U.mp4"
-    ],
-    "id": "x1",
-    "total_size": 955.0452470703129
+    ]
 }
