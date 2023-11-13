@@ -205,6 +205,13 @@
             "url": "https://github.com/circuitalmynds/music_x1/raw/main/videos/Sentimental-UmMXXrlcc_c.mp4"
         },
         {
+            "id": "--aGfsdoMv8",
+            "name": "CADETES DE LINARES-TU BUEN CAMINO, TU PARTIDA [--aGfsdoMv8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/x1/videos/CADETES DE LINARES-TU BUEN CAMINO, TU PARTIDA [--aGfsdoMv8].mp4",
+            "size": 8.421711,
+            "url": "https://github.com/circuitalmynds/music_x1/raw/main/videos/CADETES DE LINARES-TU BUEN CAMINO, TU PARTIDA [--aGfsdoMv8].mp4"
+        },
+        {
             "id": "WVfNy0gjk4M",
             "name": "Los Cadetes de Linares-De Ramones a Los Algodones-WVfNy0gjk4M.mp4",
             "path": "/home/alanmatzumiya/Videos/container/x1/videos/Los Cadetes de Linares-De Ramones a Los Algodones-WVfNy0gjk4M.mp4",
@@ -681,5 +688,5 @@
             "url": "https://github.com/circuitalmynds/music_x1/raw/main/videos/The Kagas - Vacaciones en Europa (Los Emigrantes)-8zKaotLPVj0.mp4"
         }
     ],
-    "total_size": 1000.1459770000001
+    "total_size": 1008.5676880000002
 }
